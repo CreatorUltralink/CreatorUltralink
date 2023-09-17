@@ -1,0 +1,44 @@
+{
+  "one-digit": {
+    "0": "zero",
+    "1": "one"
+  },
+  "two-digit": {
+    "10": "ten",
+    "11": "eleven"
+  },
+  "three-digit": {
+    "100": "hundred",
+    "101": "hundred-one",
+    "110": "hundred-ten",
+    "111": "hundred-eleven"
+  },
+  "four-digit": {
+    "1000": "thousand",
+    "1001": "thousand-one",
+    "1010": "thousand-ten",
+    "1011": "thousand-eleven",
+    "1100": "thousand-hundred",
+    "1101": "thousand-hundred-one",
+    "1110": "thousand-hundred-ten",
+    "1111": "thousand-hundred-eleven"
+  },
+  "five-digit":{
+  "10000": "ten-thousand",
+  "10001": "ten-thousand-one",
+  "10010": "ten-thousand-ten",
+  "10011": "ten-thousand-eleven",
+  "10100": "ten-thousand-hundred",
+  "10101": "ten-thousand-hundred-one",
+  "10110": "ten-thousand-hundred-ten",
+  "10111": "ten-thousand-hundred-eleven",
+  "11000": "eleven-thousand",
+  "11001": "eleven-thousand-one",
+  "11010": "eleven-thousand-ten",
+  "11011": "eleven-thousand-eleven",
+  "11100": "eleven-thousand-hundred",
+  "11101": "eleven-thousand-hundred-one",
+  "11110": "eleven-thousand-hundred-ten",
+  "11111": "eleven-thousand-hundred-eleven"
+  }
+}
