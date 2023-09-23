@@ -53,8 +53,8 @@ int main() {
         }
     };
 
-    // Acceder a los datos
-    printf("Ejemplo de acceso a datos: %s\n", data.byte_0th[2][1]);  // Esto imprimirá "0"
+    /* Acceder a los datos */
+    printf("bytes loaded: %s\n", data.byte_0th[2][1][2][3]);
 
     return 0;
 }
