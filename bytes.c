@@ -54,7 +54,7 @@ int main() {
     };
 
     /* Acceder a los datos */
-    printf("bytes loaded: %s\n", data.byte_0th[2][1][2][3]);
+    printf("bytes loaded: %s\n", data.byte_0th[8][1][2][3]);
 
     return 0;
 }
