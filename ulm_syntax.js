@@ -1,24 +1,10 @@
-const delimiters = {
-  createComment: {
+const markers = {
+  markComment: {
     closure: new RegExp("[‹]", "gm"),
     openure: new RegExp("[›]", "gm")
   },
-  createElement: {
+  markElement: {
     closure: new RegExp("[»]", "gm"),
     openure: new RegExp("[«]", "gm")
   }
-};
-const voidElements = {
-  "audio-file": [
-    { "file-source": 1 },
-    { "file-format": 1 }
-  ],
-  "image-file": [
-    { "file-source": 1 },
-    { "file-format": 1 }
-  ],
-  "video-file": [
-    { "file-source": 1 },
-    { "file-format": 1 }
-  ]
 };
